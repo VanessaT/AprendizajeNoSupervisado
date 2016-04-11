@@ -8,7 +8,6 @@ Tarea #3 del curso Minería de Datos de la Universidad Central de Venezuela
 ######  script.Rmd reproducible y documentado
 ######  script.R reproducible y documentado
 ######  README.md 
-######  informe.pdf
 ######  Todos los csv necesarios en la tarea
 
 ## Desarrolladora
